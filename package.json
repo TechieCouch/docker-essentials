@@ -1,0 +1,33 @@
+{
+  "name": "docker-essentials",
+  "displayName": "Docker Essentials",
+  "description": "The 2021 Docker Essentials Collection of extensions for the modern developer using GIT on VS Code",
+  "version": "0.0.1",
+  "publisher": "TechieCouch",
+  "icon": "images/logo.jpg",
+  "engines": {
+    "vscode": "0.10.x"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "Docker",
+    "Docker Compose",
+    "Docker Ecplorer",
+    "Docker Remote Access",
+    "Docker Remote Containers"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TechieCouch/git-essentials"
+  },
+  "extensionPack": [
+    "publisher.extensionName",
+    "formulahendry.docker-explorer",
+    "jeff-hykin.better-dockerfile-syntax",
+    "ms-azuretools.vscode-docker",
+    "p1c2u.docker-compose",
+    "ms-vscode-remote.remote-containers"
+  ]
+}
