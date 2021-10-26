@@ -1,4 +1,4 @@
-# GIt Essentials Extension Pack 2021 - TechieCouch
+# Docker Essentials Extension Pack 2021 - TechieCouch
 
 ---
 
