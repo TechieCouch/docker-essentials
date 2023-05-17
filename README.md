@@ -2,9 +2,9 @@
 
 ---
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/TechieCouch.docker-essentials.png)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.docker-essentials)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/TechieCouch.docker-essentials.png)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.docker-essentials)
-[![Ratings](https://vsmarketplacebadge.apphb.com/downloads/TechieCouch.docker-essentials.png)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.docker-essentials)
+[![Version](https://vsmarketplacebadges.dev/version/TechieCouch.docker-essentials.png)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.docker-essentials)
+[![Installs](https://vsmarketplacebadges.dev/installs/TechieCouch.docker-essentials.png)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.docker-essentials)
+[![Ratings](https://vsmarketplacebadges.dev/downloads/TechieCouch.docker-essentials.png)](https://marketplace.visualstudio.com/items?itemName=TechieCouch.docker-essentials)
 
 ## Extensions included
 
