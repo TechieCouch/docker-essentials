@@ -1,8 +1,8 @@
 {
   "name": "docker-essentials",
   "displayName": "Docker Essentials",
-  "description": "The 2021 Docker Essentials Collection of extensions for the modern developer using GIT on VS Code",
-  "version": "0.0.1",
+  "description": "The 2023 Docker Essentials Collection of extensions for the modern developer using GIT on VS Code",
+  "version": "0.0.2",
   "publisher": "TechieCouch",
   "icon": "images/logo.jpg",
   "engines": {
